@@ -1,0 +1,1 @@
+import{u as n,o as s,c,a as l,t as r,b as u,d as _,F as i,_ as p}from"./index-6ac1c7fd.js";const d={__name:"AboutView",setup(m){const t=n(),a=(e,o)=>{console.log(e),console.log(o)};return(e,o)=>(s(),c(i,null,[l("span",null,r(u(t).doubleCount),1),_(p,{onOnClick:a,label:"About View",color:"blue"})],64))}};export{d as default};
